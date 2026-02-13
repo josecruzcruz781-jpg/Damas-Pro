@@ -3,9 +3,7 @@
 **Sistema de Gestión de Damas y Tesorería para Iglesias**
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/TU_USUARIO/damaspro.svg)](https://github.com/TU_USUARIO/damaspro/stargazers)
-
-![DamasPro Screenshot](https://via.placeholder.com/800x400/ff6b6b/ffffff?text=DamasPro+Preview)
+[![GitHub stars](https://img.shields.io/github/stars/josecrucruz781-jpg/damaspro.svg)](https://github.com/josecruzcruz781-jpg/damaspro/stargazers)
 
 ---
 
@@ -23,7 +21,7 @@
 
 ## 🚀 Demo en Vivo
 
-👉 [Ver Demo](https://TU_USUARIO.github.io/damaspro) *(GitHub Pages)*
+👉 [Ver Demo](https://josecruzcruz781-jpg.github.io/Damas-Pro/) *(GitHub Pages)*
 
 ---
 
